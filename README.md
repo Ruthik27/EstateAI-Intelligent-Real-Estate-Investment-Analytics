@@ -46,11 +46,17 @@ A comprehensive Shiny application to explore Airbnb properties based on a variet
 
 ### Screens
 <br>
+
 ![Information_Page Screenshot](./imgs/Screen01.png)
+
 <br>
+
 ![Geo_Plots_Screenshot](./imgs/Screen02.png)
+
 <br>
+
 ![Visualization_Page Screenshot](./imgs/Screen03.png)
+
 <br>
 
 ### Contributing:

@@ -1,4 +1,3 @@
-
 ## Airbnb Dashboard 2023
 
 A comprehensive Shiny application to explore Airbnb properties based on a variety of filters. With an intuitive user interface, users can quickly find properties that match their preferences.
@@ -24,11 +23,13 @@ A comprehensive Shiny application to explore Airbnb properties based on a variet
 ### Installation:
 
 1. Clone the repository:
+
    ```
    git clone <repository_url>
    ```
 
 2. Navigate to the project directory and install the required R packages:
+
    ```R
    install.packages("shiny")
    install.packages("leaflet")
@@ -45,10 +46,9 @@ A comprehensive Shiny application to explore Airbnb properties based on a variet
 
 ### Screen
 
-![Information_Page Screenshot](../imgs/Screen01.png)
-![Geo_Plots_Screenshot](../imgs/Screen02.png)
-![Visualization_Page Screenshot](../imgs/Screen03.png)
-
+![Information_Page Screenshot](./imgs/Screen01.png)
+![Geo_Plots_Screenshot](./imgs/Screen01.png)
+![Visualization_Page Screenshot](./imgs/Screen03.png)
 
 ### Contributing:
 

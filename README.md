@@ -25,7 +25,7 @@ A comprehensive Shiny application to explore Airbnb properties based on a variet
 1. Clone the repository:
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Ruthik27/Airbnb_2023_Dashboard
    ```
 
 2. Navigate to the project directory and install the required R packages:

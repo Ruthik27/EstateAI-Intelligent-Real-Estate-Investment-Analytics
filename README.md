@@ -2,6 +2,8 @@
 
 A comprehensive Shiny application to explore Airbnb properties based on a variety of filters. With an intuitive user interface, users can quickly find properties that match their preferences.
 
+### Visi the below link to have a Live Demo: Application is hosted upon ShinyApps
+https://perman27.shinyapps.io/airbnb_perman/
 ### Features:
 
 - **City Selection**: Filter properties by city.

@@ -1,4 +1,4 @@
-## Airbnb Dashboard 2023
+## EstateAI: Intelligent Real Estate Investment Analytics
 
 A comprehensive Shiny application to explore Airbnb properties based on a variety of filters. With an intuitive user interface, users can quickly find properties that match their preferences.
 
